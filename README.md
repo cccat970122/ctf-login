@@ -6,3 +6,6 @@
 3) 前往 Stage 2：**CTF-Login-Cookie**，用剛拿到的 `LAB_PASS` 登入後再想辦法取得 `FLAG_COOKIE`
 
 > 負責任使用：僅限本機或授權環境，請勿對未授權系統嘗試。
+
+## Demo
+- Online demo (Render): https://ctf-lab.onrender.com/login.html
